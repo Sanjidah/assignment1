@@ -1,3 +1,3 @@
 # assignment1
 Practical Web Dev 
-https://sanjidah.github.io/assignment1/ 
+[Link to site] https://sanjidah.github.io/assignment1/ 
