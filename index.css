@@ -1,0 +1,18 @@
+body {
+  background-image: url("https://img.wallpapersafari.com/tablet/2560/1700/23/38/5nCS1D.jpg");
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  margin-left: 20px;
+  font-size: 100px;
+}
+
+button {
+  background-color: orangered;
+  color: white;
+  border: 2px black;
+  width: 100px;
+  height: 50px;
+}
