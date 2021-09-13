@@ -6,15 +6,15 @@ body {
 }
 
 h1 {
-  color: orange;
-  margin-left: 20px;
-  font-size: 100px;
+  color: rgb(246, 132, 31, 255);
+  margin: 20px;
+  font-size: 90px;
 }
 
 h2 {
-  color: white;
-  margin-left: 20px;
-  font-size: 20px;
+  color: rgb(246, 132, 31, 255);
+  margin: 40px;
+  font-size: 30px;
 }
 
 button {
@@ -23,8 +23,6 @@ button {
   border: 2px black;
   border-radius: 12px;
   color: white;
-  //text-align: center;
-  //text-decoration: none;
   padding: 14px 40px;
   display: inline-block;
   font-size: 14px;
@@ -38,10 +36,10 @@ button {
 button {
   background-color: white;
   color: black;
-  border: 2px solid rgb(20, 181, 230);
+  border: 2px solid rgb(40, 128, 165);
 }
 
 button:hover {
-  background-color: rgba(20, 181, 230, 0.808);
+  background-color: rgba(154, 225, 235, 0.808);
   color: white;
 }
