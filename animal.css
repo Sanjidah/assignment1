@@ -1,63 +1,108 @@
-
-main{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+main {
+    font-family: "Gill Sans", sans-serif;
+    font-weight: bold;
     padding: 25px;
     width: 100%;
     height: 100%;
-}
-
-.surround{
-    background-image:url("https://img.wallpapersafari.com/tablet/2560/1700/23/38/5nCS1D.jpg");
+  }
+  
+  .surround {
+    background-image: url("https://img.wallpapersafari.com/tablet/2560/1700/23/38/5nCS1D.jpg");
+    background-size: cover;
     width: 100%;
     height: 100%;
-}
-
-.title{
-    text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; sans-serif;
+  }
+  
+  .title {
+    font-family: "Gill Sans", sans-serif;
+    font-weight: bold;
     font-size: 40px;
-    color: white;
-}
-
-.specs{
     text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; sans-serif;
+    color: white;
+  }
+  
+  .specs {
+    font-family: "Gill Sans", sans-serif;
+    font-weight: bold;
     font-size: 25px;
-    color: white;
-}
-
-.quote{
     text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;, sans-serif;
-    font-size: 20px;
     color: white;
-}
-input{
-    margin: .4rem;
-}
-
-header{
+  }
+  
+  .quote {
+    font-family: "Gill Sans", sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+  }
+  
+  input {
+    margin: 0.4rem;
+  }
+  
+  header {
     padding: 15px;
-    width: 100%
-}
-
-.img1{
-    padding-top: 30px;
-    padding-left: 25px;
+    width: 100%;
+  }
+  
+  .img1 {
+    padding-left: 20px;
+    float: right;
     width: 50%;
-    float:right;
-    border-radius: 50%;
-}
+    border-radius: 30%;
+  }
 
-.blurb{
+  .img2 {
+    float: center;
+    margin-left: 25%;
+  }
+  
+  .blurb {
     color: rgb(255, 153, 51);
     font-size: 20px;
-}
-
-.btn-area{
+  }
+  
+  .highlightme {
+    background-color: #b0dee7;
+  }
+  
+  .box3 {
+    font-family: "Gill Sans", sans-serif;
+    font-weight: bold;
     text-align: center;
-    color: coral;
-    margin: 10px;
-}
-
-
+    padding: 20px;
+    width: 300px;
+    margin: 50px auto;
+    border-radius: 15px;
+    background: #b0dee7;
+    color: #000000;
+    position: relative;
+  }
+  
+  .sb13:before {
+    content: "";
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    border-left: 15px solid #b0dee7;
+    border-right: 15px solid transparent;
+    border-top: 15px solid #b0dee7;
+    border-bottom: 15px solid transparent;
+    right: -16px;
+    top: 0px;
+  }
+  
+  .btn-area {
+    font-family: "Gill Sans", sans-serif;
+    font-size: 14px;
+    text-align: center;
+    padding: 14px 40px;
+    background-color: white;
+    border-radius: 12px;
+    margin: 80px;
+    margin-left: 45%;
+    width: fit-content;
+    height: fit-content;
+  }
+  
