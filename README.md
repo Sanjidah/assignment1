@@ -1,5 +1,6 @@
 # Zoo Assignment 1
-Practical Web Dev 
+
+Practical Web Dev
 
 Sanjidah Abdullah, Mariam Khan, Heaven Kadro
 
