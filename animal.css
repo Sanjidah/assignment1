@@ -58,11 +58,6 @@ main {
     margin-left: 25%;
   }
   
-  .blurb {
-    color: rgb(255, 153, 51);
-    font-size: 20px;
-  }
-  
   .highlightme {
     background-color: #b0dee7;
   }
@@ -70,6 +65,7 @@ main {
   .box3 {
     font-family: "Gill Sans", sans-serif;
     font-weight: bold;
+    font-size: 25px;
     text-align: center;
     padding: 20px;
     width: 300px;
