@@ -1,0 +1,45 @@
+body {
+  background-image: url(bg.jpeg);
+  background-size: cover;
+  text-align: center;
+  font-family: "Gill Sans", sans-serif;
+}
+
+h1 {
+  color: rgb(246, 132, 31, 255);
+  margin: 20px;
+  font-size: 90px;
+}
+
+h2 {
+  color: rgb(246, 132, 31, 255);
+  margin: 40px;
+  font-size: 30px;
+}
+
+button {
+  background-color: orange;
+  font-family: "Gill Sans", sans-serif;
+  border: 2px black;
+  border-radius: 12px;
+  color: white;
+  padding: 14px 40px;
+  display: inline-block;
+  font-size: 14px;
+  margin: 10px 20px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width: fit-content;
+  height: fit-content;
+}
+
+button {
+  background-color: white;
+  color: black;
+  border: 2px solid rgb(40, 128, 165);
+}
+
+button:hover {
+  background-color: rgba(154, 225, 235, 0.808);
+  color: white;
+}
